@@ -11,7 +11,8 @@ This NLP app automatically classifies each sentence into a relevant heading (e.g
 
 
 ##  Model Experiments ##
-to see the model experiments: All the notebooks are available [here]("https://github.com/ronysalem/Skimlit-Abstract-Simpilifier/Notebooks").
+to see the model experiments: All the notebooks are available [here]("https://github.com/ronysalem/Skimlit-Abstract-Simpilifier/Notebooks")
+
 The table below summarizes some of the model experiments tried :
 | Model  | Accuracy |
 |---|---|
