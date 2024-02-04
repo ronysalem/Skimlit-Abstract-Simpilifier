@@ -34,7 +34,7 @@ The table below summarizes some of the model experiments tried :
 
 
 ## How to run the app in Colab: ##
-1. go to [Notebooks]("https://github.com/ronysalem/Skimlit-Abstract-Simpilifier/Notebooks") and download Running_in_colab Notebook
+1. go to [Notebooks](https://github.com/ronysalem/Skimlit-Abstract-Simpilifier/tree/main/Notebooks) and download Running_in_colab Notebook
 2. upload it to Colab
 3. Run the cells
 4. After running the cell ``` ! streamlit run app.py & npx localtunnel --port 8501 ``` you will see output like this : <img src="Images/1.png" width=80% height=80%>
