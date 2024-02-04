@@ -11,7 +11,7 @@ This NLP app automatically classifies each sentence into a relevant heading (e.g
 
 
 ##  Model Experiments ##
-to see the model experiments: All the notebooks are available [here]("https://github.com/ronysalem/Skimlit-Abstract-Simpilifier/Notebooks")
+to see the model experiments: All the notebooks are available [Notebooks]("https://github.com/ronysalem/Skimlit-Abstract-Simpilifier/Notebooks")
 
 The table below summarizes some of the model experiments tried :
 | Model  | Accuracy |
@@ -33,7 +33,7 @@ The table below summarizes some of the model experiments tried :
 
 
 ## How to run the app in Colab: ##
-1. go to [here]("https://github.com/ronysalem/Skimlit-Abstract-Simpilifier/Notebooks") and download Running_in_colab Notebook
+1. go to [Notebooks]("https://github.com/ronysalem/Skimlit-Abstract-Simpilifier/Notebooks") and download Running_in_colab Notebook
 2. upload it to Colab
 3. Run the cells
 4. After running the cell ``` ! streamlit run app.py & npx localtunnel --port 8501 ``` you will see output like this : <img src="Images/1.png" width=80% height=80%>
