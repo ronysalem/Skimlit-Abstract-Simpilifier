@@ -26,7 +26,7 @@ The table below summarizes some of the model experiments tried :
 **With Bert Pubmed embeddings** 
 <img src="Images/results_2.png" width=80% height=80%>
 
-##Best Performing model architecture: ## 
+##Best Performing model architecture:## 
 <img src="Images/model_plot.png" width=80% height=80%>
 
 
