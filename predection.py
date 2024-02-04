@@ -5,7 +5,7 @@ import tensorflow as tf
 
 
 def make_predictions(example_line_number_of_total_lines_one_hot,example_total_lines_one_hot,example_sentences,example_chars):
-    loaded_model = tf.keras.models.load_model("/content/Skimlit/skimlit-Model")
+    loaded_model = tf.keras.models.load_model("/content/Skimlit-Abstract-Simpilifier/Skimlit/skimlit-Model")
 
     
     example_pred_probs = loaded_model.predict(x = (example_line_number_of_total_lines_one_hot,
