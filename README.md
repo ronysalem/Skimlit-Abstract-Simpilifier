@@ -19,7 +19,8 @@ The table below summarizes some of the model experiments tried :
 | Tribrid model "Universal Sentence Encoder, character embeddings, positional embeddings" | 83% |
 | Bert Tribrid model "PUBMED BERT, character embeddings, positional embeddings" | 88% |
 
-##Expriments Results##
+## Expriments Results ##
+
 **Without using Bert Pubmed embeddings**
 <img src="Images/results_1.png" width=80% height=80%>
 
